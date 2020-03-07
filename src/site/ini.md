@@ -18,4 +18,4 @@ Chcesz spotkać innych użytkowników Node.js w swoim mieście?
 *Chcę być organizatorem spotkań o Node.js*
 
 Wrzuć pull request lub skontaktuj się z @naugtur!  
-Zapraszamy na nasz [Discord](https://discord.gg/YqXEcP2)
+Zapraszamy na nasz [Discord]({{ site.discordUrl }})

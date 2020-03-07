@@ -7,5 +7,5 @@ layout: layouts/base.njk
 
 ## Pogadajmy!
 
-[![Discord logo](/images/discord-new-logo.png) Grupa na Discord](https://discord.gg/YqXEcP2)
+[![Discord logo](/images/discord-new-logo.png) Grupa na Discord]({{ site.discordUrl }})
 
