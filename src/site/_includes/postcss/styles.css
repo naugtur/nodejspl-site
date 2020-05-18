@@ -107,8 +107,20 @@ a:focus {
   border-bottom-style:none;
 }
 
-.nav {
+nav {
+  display: flex;
   padding-top: 3em;
+}
+nav>a.logo {
+  border: none;
+  padding-right: 1em;
+
+  img {
+    width: 80px;
+  }
+}
+nav>ul {
+  
 
   li {
     display: inline;

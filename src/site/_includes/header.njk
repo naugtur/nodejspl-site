@@ -1,8 +1,7 @@
 <header>
-  <ul class="nav">
-    <li>
-      <a href="/">Node.js PL<small>node.meetjs.pl</small></a>
-    </li>
+  <nav>
+  <a href="/" class="logo"><img src="/images/logo.png" alt="Node.js PL logo"></a>
+  <ul>
     <li>
       <a href="/about">A co to?<small>O co tu chodzi?</small></a>
     </li>
@@ -10,6 +9,7 @@
       <a href="/ini">Lokalnie<small>Lokalne grupy Node.js</small></a>
     </li>
   </ul>
+  </nav>
   <h1>{{ title }}</h1>
   {%- if subtitle %}<p class="subtitle">{{ subtitle | safe }}</p>{% endif %}
 </header>
