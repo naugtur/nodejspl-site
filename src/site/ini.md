@@ -1,7 +1,7 @@
 ---
 title: Lokalne inicjatywy
 layout: layouts/base.njk
-subtitle: Co się dzieje w Polsce?
+subtitle: Z kim się spotkać po Coronawirusie ;)
 ---
 
 Chcesz spotkać innych użytkowników Node.js w swoim mieście? 
